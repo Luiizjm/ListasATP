@@ -1,1 +1,1 @@
-# Listas de Atividades de Algoritmos.
+Listas de Atividades de Algoritmos.
