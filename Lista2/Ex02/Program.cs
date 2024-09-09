@@ -7,17 +7,36 @@ class Program
 {
     static void Main()
     {   
-        int maior, menor;
-        Console.Write("Digite os números A, B e C: ");
-        int a = int.Parse(Console.ReadLine());
-        int b = int.Parse(Console.ReadLine());
-        int c = int.Parse(Console.ReadLine());
+        Console.WriteLine("Digite os números A, B e C: ");
+        int num1 = int.Parse(Console.ReadLine());
+        int num2 = int.Parse(Console.ReadLine());
+        int num3 = int.Parse(Console.ReadLine());
 
-        if (a > b && a > c) 
+        int maior = num1;
+        int menor = num1;
+
+        // Definir maior número:
+        if (num2 > maior)
         {
-            maior = a
-            
+            maior = num2;
+        }
+        else if (num3 > maior)
+        {
+            maior = num3;
         }
 
+        // Definir menor número: 
+        if (num2 < menor)
+        {
+            menor = num2;
+        }
+        else if (num3 < menor)
+        {
+            menor = num3;
+        }
+
+        Console.WriteLine();
+        Console.WriteLine($"Maior número: {maior}.");
+        Console.WriteLine($"Menor número: {menor}.");
     }
 }
