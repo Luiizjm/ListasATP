@@ -1,0 +1,14 @@
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\bin\Debug\net8.0\Ex04.exe
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\bin\Debug\net8.0\Ex04.deps.json
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\bin\Debug\net8.0\Ex04.runtimeconfig.json
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\bin\Debug\net8.0\Ex04.dll
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\bin\Debug\net8.0\Ex04.pdb
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\obj\Debug\net8.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\obj\Debug\net8.0\Ex04.AssemblyInfoInputs.cache
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\obj\Debug\net8.0\Ex04.AssemblyInfo.cs
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\obj\Debug\net8.0\Ex04.csproj.CoreCompileInputs.cache
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\obj\Debug\net8.0\Ex04.dll
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\obj\Debug\net8.0\refint\Ex04.dll
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\obj\Debug\net8.0\Ex04.pdb
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\obj\Debug\net8.0\Ex04.genruntimeconfig.cache
+C:\Users\1529712\Desktop\ListasATP-main\Lista2\Ex04\obj\Debug\net8.0\ref\Ex04.dll
