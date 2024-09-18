@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luiiz\\Documents\\GitHub\\ListasATP\\ListasATP\\Lista1\\Ex10\\Ex10.csproj": {}
+    "C:\\Users\\luiiz\\Documents\\gfgf\\ListasATP\\Lista1\\Ex10\\Ex10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luiiz\\Documents\\GitHub\\ListasATP\\ListasATP\\Lista1\\Ex10\\Ex10.csproj": {
+    "C:\\Users\\luiiz\\Documents\\gfgf\\ListasATP\\Lista1\\Ex10\\Ex10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiiz\\Documents\\GitHub\\ListasATP\\ListasATP\\Lista1\\Ex10\\Ex10.csproj",
+        "projectUniqueName": "C:\\Users\\luiiz\\Documents\\gfgf\\ListasATP\\Lista1\\Ex10\\Ex10.csproj",
         "projectName": "Ex10",
-        "projectPath": "C:\\Users\\luiiz\\Documents\\GitHub\\ListasATP\\ListasATP\\Lista1\\Ex10\\Ex10.csproj",
+        "projectPath": "C:\\Users\\luiiz\\Documents\\gfgf\\ListasATP\\Lista1\\Ex10\\Ex10.csproj",
         "packagesPath": "C:\\Users\\luiiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiiz\\Documents\\GitHub\\ListasATP\\ListasATP\\Lista1\\Ex10\\obj\\",
+        "outputPath": "C:\\Users\\luiiz\\Documents\\gfgf\\ListasATP\\Lista1\\Ex10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
