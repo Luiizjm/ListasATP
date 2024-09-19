@@ -1,0 +1,15 @@
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\bin\Debug\net8.0\Ex08.exe
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\bin\Debug\net8.0\Ex08.deps.json
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\bin\Debug\net8.0\Ex08.runtimeconfig.json
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\bin\Debug\net8.0\Ex08.dll
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\bin\Debug\net8.0\Ex08.pdb
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\obj\Debug\net8.0\Ex08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\obj\Debug\net8.0\Ex08.AssemblyInfoInputs.cache
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\obj\Debug\net8.0\Ex08.AssemblyInfo.cs
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\obj\Debug\net8.0\Ex08.csproj.CoreCompileInputs.cache
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\obj\Debug\net8.0\Ex08.sourcelink.json
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\obj\Debug\net8.0\Ex08.dll
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\obj\Debug\net8.0\refint\Ex08.dll
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\obj\Debug\net8.0\Ex08.pdb
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\obj\Debug\net8.0\Ex08.genruntimeconfig.cache
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista2\Ex08\obj\Debug\net8.0\ref\Ex08.dll

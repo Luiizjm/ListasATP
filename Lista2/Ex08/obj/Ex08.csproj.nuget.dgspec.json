@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luiiz\\Documents\\gfgf\\ListasATP\\Lista2\\Ex08\\Ex08.csproj": {}
+    "C:\\Users\\luiiz\\Documents\\GitHub\\ListasATP\\Lista2\\Ex08\\Ex08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luiiz\\Documents\\gfgf\\ListasATP\\Lista2\\Ex08\\Ex08.csproj": {
+    "C:\\Users\\luiiz\\Documents\\GitHub\\ListasATP\\Lista2\\Ex08\\Ex08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luiiz\\Documents\\gfgf\\ListasATP\\Lista2\\Ex08\\Ex08.csproj",
+        "projectUniqueName": "C:\\Users\\luiiz\\Documents\\GitHub\\ListasATP\\Lista2\\Ex08\\Ex08.csproj",
         "projectName": "Ex08",
-        "projectPath": "C:\\Users\\luiiz\\Documents\\gfgf\\ListasATP\\Lista2\\Ex08\\Ex08.csproj",
+        "projectPath": "C:\\Users\\luiiz\\Documents\\GitHub\\ListasATP\\Lista2\\Ex08\\Ex08.csproj",
         "packagesPath": "C:\\Users\\luiiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luiiz\\Documents\\gfgf\\ListasATP\\Lista2\\Ex08\\obj\\",
+        "outputPath": "C:\\Users\\luiiz\\Documents\\GitHub\\ListasATP\\Lista2\\Ex08\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
