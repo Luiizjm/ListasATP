@@ -7,9 +7,15 @@ class Program
 {
     public static void Main()
     {
-        
+        int p1, p2;
+
         for (int i = 1000; i < 9999; i++) {
-            int soma = i / 1000
+            p1 = i / 100;
+            p2 = i % 100;
+
+            if ((p1 + p2) * (p1 + p2) == i) {
+                Console.WriteLine(i);
+            }
         }
 
     }
