@@ -1,0 +1,15 @@
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\bin\Debug\net8.0\Lista4Modularização.exe
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\bin\Debug\net8.0\Lista4Modularização.deps.json
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\bin\Debug\net8.0\Lista4Modularização.runtimeconfig.json
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\bin\Debug\net8.0\Lista4Modularização.dll
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\bin\Debug\net8.0\Lista4Modularização.pdb
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\obj\Debug\net8.0\Lista4Modularização.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\obj\Debug\net8.0\Lista4Modularização.AssemblyInfoInputs.cache
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\obj\Debug\net8.0\Lista4Modularização.AssemblyInfo.cs
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\obj\Debug\net8.0\Lista4Modularização.csproj.CoreCompileInputs.cache
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\obj\Debug\net8.0\Lista4Modularização.sourcelink.json
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\obj\Debug\net8.0\Lista4Modularização.dll
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\obj\Debug\net8.0\refint\Lista4Modularização.dll
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\obj\Debug\net8.0\Lista4Modularização.pdb
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\obj\Debug\net8.0\Lista4Modularização.genruntimeconfig.cache
+C:\Users\luiiz\Documents\GitHub\ListasATP\Lista4Modularização\obj\Debug\net8.0\ref\Lista4Modularização.dll
