@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lista4Modularização")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+497eed7062319ad538d93bf542564da9fa4fc97f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+636cfc78f77b36612c2e78a72235e328e4627374")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lista4Modularização")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lista4Modularização")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

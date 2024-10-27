@@ -21,8 +21,32 @@ class Program
             case 4:
                 Exercicio4.Executar();
                 break;
+            case 5:
+                Exercicio5.Executar();
+                break;
+            case 6:
+                Exercicio6.Executar();
+                break;
+            case 7:
+                Exercicio7.Executar();
+                break;
+            case 8:
+                Exercicio8.Executar();
+                break;
+            case 9: 
+                Exercicio9.Executar();
+                break;
+            case 10:
+                Exercicio10.Executar();
+                break;
+            default:
+                break;
         }
     }
+    
+    
+    
+    
     public static void menu()
     {
         Console.WriteLine("Escolha o número do exercicio de 1 a 10!");
@@ -37,5 +61,6 @@ class Program
         Console.WriteLine("9 - Exercicio 9.");
         Console.WriteLine("10 - Exercicio 10.");
         Console.WriteLine("11- Sair.");
+        Console.Write("R: ");
     }
 }
