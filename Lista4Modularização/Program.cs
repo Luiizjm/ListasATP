@@ -2,7 +2,7 @@
 
 class Program
 {
-    private static void Main(string[] args)
+    private static void Main()
     {
         menu();
         int op = int.Parse(Console.ReadLine());
@@ -12,15 +12,17 @@ class Program
             case 1:
                 Exercicio1.Executar();
                 break;
-            default:
+            case 2:
+                Exercicio2.Executar();
+                break;
+            case 3:
+                Exercicio3.Executar();
+                break;
+            case 4:
+                Exercicio4.Executar();
                 break;
         }
     }
-
-
-
-
-
     public static void menu()
     {
         Console.WriteLine("Escolha o número do exercicio de 1 a 10!");
