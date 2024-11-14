@@ -15,14 +15,14 @@ namespace Lista5
                     Exercicio1.Rodar();
                     break;
                 case 2:
-                   //Exercicio2.Rodar();
+                    Exercicio2.Rodar();
                     break;
-                
+                case 3:
+                    Exercicio3.Rodar();
+                    break;
+                default:
+                    break;
             }
-
-
-
-
         }
     }
 }
